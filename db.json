@@ -1,5 +1,5 @@
 {
-  "posts": 
+   "posts": [
     {   "id": 1,
         "sku": "NHE-C0447",
         "name": "Toilet Trouble",
@@ -69,4 +69,7 @@
         "price": 14.950,
         "image": "https://res-3.cloudinary.com/teeelatoys/image/upload/c_pad,dpr_1.0,f_auto,q_auto/v1/media/catalog/product/i/m/img_9005.jpg"
     },
+  ],
+  "profile": {
+    "name": "blueyo"
 }

@@ -12,7 +12,7 @@
         "name": "Levels",
         "price": 9.000,
         "image": "https://res-4.cloudinary.com/teeelatoys/image/upload/c_pad,dpr_1.0,f_auto,q_auto/v1/media/catalog/product/m/a/madness-crocodilegame.jpg"
-    }
+    },
     { 
         "id": 3,
         "sku": "NJN-3839",
@@ -26,7 +26,7 @@
         "name": "Speak Out Kids Vs Parents",
         "price": 8.950,
         "image": "https://res-5.cloudinary.com/teeelatoys/image/upload/c_pad,dpr_1.0,f_auto,q_auto/v1/media/catalog/product/s/p/speak_out_kids_vs_parents-2.jpg"
-    }
+    },
     { 
         "id": 5,
         "sku": "NHE-02033",
@@ -40,7 +40,7 @@
         "name": "products 6",
         "price": 14.950,
         "image": "https://www.target.com.au/medias/static_content/product/images/large/82/65/A1008265.jpg"
-    }
+    },
     { 
         "id": 7,
         "sku": "NHE-9899",
@@ -54,7 +54,7 @@
         "name": "Shiver snow",
         "price": 99.950,
         "image": "https://res-1.cloudinary.com/teeelatoys/image/upload/c_pad,dpr_1.0,f_auto,q_auto/v1/media/catalog/product/e/l/electronic_hedbanz_tarsasjatek_4610_lrg.jpg"
-    }
+    },
     { 
         "id": 9,
         "sku": "NHE-1i333",

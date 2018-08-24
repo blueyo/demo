@@ -1,14 +1,74 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "products": 
+  [
+    {   "id": 1,
+        "sku": "NHE-C0447",
+        "name": "Toilet Trouble",
+        "price": 14.000,
+        "image": "https://www.target.com.au/medias/static_content/product/images/large/82/65/A1008265.jpg"
+    },
+    {
+        "id": 2,
+        "sku": "NHE-B7388",
+        "name": "Levels",
+        "price": 9.000,
+        "image": "https://res-4.cloudinary.com/teeelatoys/image/upload/c_pad,dpr_1.0,f_auto,q_auto/v1/media/catalog/product/m/a/madness-crocodilegame.jpg"
+    }
+    { 
+        "id": 3,
+        "sku": "NJN-3839",
+        "name": "Products 3",
+        "price": 27.000,
+        "image": "https://res-3.cloudinary.com/teeelatoys/image/upload/c_pad,dpr_1.0,f_auto,q_auto/v1/media/catalog/product/8/1/81uraujlwyl.jpg"
+    },
+    {
+        "id": 4,
+        "sku": "NHE-3332",
+        "name": "Speak Out Kids Vs Parents",
+        "price": 8.950,
+        "image": "https://res-5.cloudinary.com/teeelatoys/image/upload/c_pad,dpr_1.0,f_auto,q_auto/v1/media/catalog/product/s/p/speak_out_kids_vs_parents-2.jpg"
+    }
+    { 
+        "id": 5,
+        "sku": "NHE-02033",
+        "name": "product 5",
+        "price": 32.950,
+        "image": "https://res-1.cloudinary.com/teeelatoys/image/upload/c_pad,dpr_1.0,f_auto,h_700,q_auto,w_700/v1/media/catalog/product/2/2/22600-board_game_crash.jpg"
+    },
+    {
+        "id": 6,
+        "sku": "NHE-9998",
+        "name": "products 6",
+        "price": 14.950,
+        "image": "https://www.target.com.au/medias/static_content/product/images/large/82/65/A1008265.jpg"
+    }
+    { 
+        "id": 7,
+        "sku": "NHE-9899",
+        "name": "JINGGA",
+        "price": 2.950,
+        "image": "https://res-1.cloudinary.com/teeelatoys/image/upload/c_pad,dpr_1.0,f_auto,h_700,q_auto,w_700/v1/media/catalog/product/j/e/jenga_classic-3.jpg"
+    },
+    {
+        "id": 8,
+        "sku": "NHE-2200",
+        "name": "Shiver snow",
+        "price": 99.950,
+        "image": "https://res-1.cloudinary.com/teeelatoys/image/upload/c_pad,dpr_1.0,f_auto,q_auto/v1/media/catalog/product/e/l/electronic_hedbanz_tarsasjatek_4610_lrg.jpg"
+    }
+    { 
+        "id": 9,
+        "sku": "NHE-1i333",
+        "name": "best game board",
+        "price":33.950,
+        "image": "https://res-3.cloudinary.com/teeelatoys/image/upload/c_pad,dpr_1.0,f_auto,h_700,q_auto,w_700/v1/media/catalog/product/c/0/c0376.jpg"
+    },
+    {
+        "id": 10,
+        "sku": "NHE-929892",
+        "name": "exterem product",
+        "price": 14.950,
+        "image": "https://res-3.cloudinary.com/teeelatoys/image/upload/c_pad,dpr_1.0,f_auto,q_auto/v1/media/catalog/product/i/m/img_9005.jpg"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
